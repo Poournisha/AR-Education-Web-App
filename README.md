@@ -16,6 +16,6 @@ An Augmented Reality-based web application that transforms complex scientific co
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/USERNAME/REPO-NAME.git
-cd REPO-NAME
+git clone https://github.com/Poournisha/AR-Education-Web-App.git
+cd AR-Education-Web-App
 # Open index.html in browser or run local server
