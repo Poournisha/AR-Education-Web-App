@@ -14,9 +14,10 @@ An Augmented Reality-based web application that transforms complex scientific co
 - WebXR
 - HTML, CSS, JavaScript
 
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/cd6a663e-674b-4a68-8cd7-54348a1a275a)
+
 ## 🚀 Getting Started
 ```bash
 git clone https://github.com/Poournisha/AR-Education-Web-App.git
 cd AR-Education-Web-App
 # Open index.html in browser or run local server
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/cd6a663e-674b-4a68-8cd7-54348a1a275a)
